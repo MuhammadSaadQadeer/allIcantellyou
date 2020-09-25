@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6.58cm" height="5.71cm" viewBox="0 0 186.52 161.85">
+  <title>logo-white</title>
+  <g>
+    <path d="M93.26,26.33C58.93-25.55-20.17,22.6,11.54,80.05c14.57,26.42,55.78,60.41,81.72,76.84,25.93-16.43,67.14-50.42,81.71-76.84C206.68,22.65,127.59-25.55,93.26,26.33Z" transform="translate(0 0)" fill="none"/>
+    <path d="M12,75c7.39,23.65,53,65.65,81.27,83.63,26.36-16.81,72.74-57.84,86.29-85.7C141.85,9.28,43,127.26,12,75Z" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+    <g>
+      <path d="M93.26,26.33C58.93-25.55-20.17,22.6,11.54,80.05c14.57,26.42,55.78,60.41,81.72,76.84,25.93-16.43,67.14-50.42,81.71-76.84C206.68,22.65,127.59-25.55,93.26,26.33Z" transform="translate(0 0)" fill="none" stroke="#fff" stroke-miterlimit="3.86" stroke-width="8.39"/>
+      <g>
+        <circle cx="32.94" cy="38.3" r="4.43" fill="#fff"/>
+        <path d="M32.9,38.33" transform="translate(0 0)" fill="#fff"/>
+      </g>
+      <g>
+        <path d="M33,58.93a6.2,6.2,0,1,1,4.53,7.52h0A6.21,6.21,0,0,1,33,58.94Z" transform="translate(0 0)" fill="#fff"/>
+        <path d="M39,60.43" transform="translate(0 0)" fill="#fff"/>
+      </g>
+      <g>
+        <path d="M22.06,61.45a3.1,3.1,0,1,1,2.26,3.77,3.1,3.1,0,0,1-2.26-3.77Z" transform="translate(0 0)" fill="#fff"/>
+        <path d="M25.07,62.21" transform="translate(0 0)" fill="#fff"/>
+      </g>
+      <g>
+        <path d="M48.63,71.52a3.47,3.47,0,1,1,2.53,4.21A3.46,3.46,0,0,1,48.63,71.52Z" transform="translate(0 0)" fill="#fff"/>
+        <path d="M52,72.36" transform="translate(0 0)" fill="#fff"/>
+      </g>
+      <g>
+        <path d="M44.39,47.05a3.1,3.1,0,1,1,2.26,3.77,3.1,3.1,0,0,1-2.26-3.77Z" transform="translate(0 0)" fill="#fff"/>
+        <path d="M47.4,47.81" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
